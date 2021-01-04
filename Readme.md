@@ -1,0 +1,1 @@
+Session Authentication with django-rest-api
